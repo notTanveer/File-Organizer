@@ -76,6 +76,9 @@ You can customize the file_types dictionary in the script to add or modify suppo
 # Notes
 Always exercise caution when using scripts that modify your file system. Test the File Organizer Program on a small set of files before using it on important directories.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 Make sure to create the required subfolders before running the script to avoid any errors.
 
 The program categorizes files based on their extensions and does not analyze file content.
